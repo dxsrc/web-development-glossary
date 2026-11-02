@@ -181,4 +181,4 @@ Over the Air
 OWASP
 : → Open Web Application Security Project
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/frontenddogma/web-development-glossary-forum/issues)!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/dxsrc/web-development-glossary-forum/issues)!
