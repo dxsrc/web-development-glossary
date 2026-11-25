@@ -142,14 +142,14 @@ JSON Web Signature
 JSON Web Token
 : An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can typically be used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes. [†](#w-jwt)
 
-JSON with Padding
+JSON With Padding
 : A historical JavaScript technique for requesting data by loading a `script` element. JSONP was proposed in 2005 by Bob Ippolito. It enables sharing of data bypassing same-origin policy, which disallows running JavaScript code to read media DOM elements or XMLHttpRequest data fetched from outside the page’s originating site. JSONP is vulnerable to the data source replacing the innocuous function call with malicious code, which is why it has been superseded by cross-origin resource sharing in modern applications. [†](#w-jsonp)
 
 JSON-LD
 : → JavaScript Object Notation for Linked Data
 
 JSON-P
-: → JSON with Padding
+: → JSON With Padding
 
 JSON5
 : → JSON5 Data Interchange Format
@@ -158,7 +158,7 @@ JSON5 Data Interchange Format
 : An unofficial superset of, and proposed extension to, the JSON format. The goal of JSON5 is to make it easier for people to write and maintain JSON. Its features relate to the handling of objects, arrays, strings, numbers, and comments. JSON5 is suggested to have a special file extension, .json5, as well as a different MIME type. ℹ︎ [json5.org](https://json5.org/)
 
 JSONP
-: → JSON with Padding
+: → JSON With Padding
 
 JSP
 : → JavaServer Pages
